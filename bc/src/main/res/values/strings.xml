@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BaseConverter</string>
+	<string name="PressMeString">Press ME</string>
+	<string name="base_10_lbl">Base 10 number</string>
+	<string name="base_2_lbl">Base 2 number</string>
+	<string name="base_16_lbl">Base 16 number</string>
+	<string name="btn_decimal">Decimal</string>
+	<string name="btn_binary">Binary</string>
+	<string name="btn_hexa">Hexa</string>
+	<string name="btn_clear">Clear all</string>
+    <string name="Backspace_string">Backspace</string>
+</resources>

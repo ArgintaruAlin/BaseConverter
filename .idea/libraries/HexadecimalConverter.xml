@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HexadecimalConverter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bc/libs/HexadecimalConverter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

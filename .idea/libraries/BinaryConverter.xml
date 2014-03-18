@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BinaryConverter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bc/libs/BinaryConverter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
